@@ -87,12 +87,6 @@ categories = ["articles"]
 homepage_url = "//lukaskalbertodt.github.io/2016/09/01/developing-a-game-with-Rust-beginners-some-thoughts-on-tools-and-libraries.html"
 
 [[items]]
-name = "Framebuffers, WGPU and Rust"
-description = "Introduction to WGPU and high-level rendering terminology"
-categories = ["articles"]
-homepage_url = "//nyxtom.dev/2020/10/08/framebuffers/"
-
-[[items]]
 name = "Game Development in Rust with Macroquad book by Olle Wreede"
 description = "A game development guide on how to program a shoot 'em up game with the Rust programming language and the Macroquad game library"
 categories = ["books", "tutorials"]
@@ -103,19 +97,13 @@ repository_url = "//github.com/ollej/macroquad-introduktion"
 name = "Game Development with Rust and WebAssembly by Eric Smith"
 description = "Learn how to run Rust on the web while building an endless runner"
 categories = ["books", "tutorials"]
-homepage_url = "https://subscription.packtpub.com/product/game_development/9781801070973"
+homepage_url = "https://www.packtpub.com/en-us/product/game-development-with-rust-and-webassembly-9781801074995"
 
 [[items]]
 name = "Game Server in 150 lines of Rust"
 description = "This tutorial will show you how to write a simple game server"
 categories = ["tutorials"]
 homepage_url = "//medium.com/@buterajay/game-server-in-150-lines-of-rust-ce1782199907"
-
-[[items]]
-name = "Graphics by Squares"
-description = "A gfx-rs tutorial"
-categories = ["tutorials"]
-homepage_url = "//suhr.github.io/gsgt"
 
 [[items]]
 name = "Hands-On Rust Effective Learning through 2D Game Development and Play by Herbert Wolverson"
